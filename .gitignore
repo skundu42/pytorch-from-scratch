@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+ckpt.pt
+*.pt
+loss.csv
+.DS_Store
